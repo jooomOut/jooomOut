@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+SW마에스트로 활동은 private Gitlab에서 진행되고 있습니다 🥲
 <!--
 **jooomOut/jooomOut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
