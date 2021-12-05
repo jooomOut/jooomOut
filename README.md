@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-SW마에스트로 활동은 private Gitlab에서 진행되고 있습니다 🥲
+SW마에스트로 12기 (21.04~21.11)
+
+[정리용 Notion](https://soapy-trout-320.notion.site/Blog-e3c49d960d854b8d8a51b38c23c80a8a)
 <!--
 **jooomOut/jooomOut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
